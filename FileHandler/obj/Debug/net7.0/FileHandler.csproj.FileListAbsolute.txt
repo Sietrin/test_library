@@ -1,0 +1,12 @@
+/home/setrin/Documents/test_project/FileHandler/bin/Debug/net7.0/FileHandler.deps.json
+/home/setrin/Documents/test_project/FileHandler/bin/Debug/net7.0/FileHandler.dll
+/home/setrin/Documents/test_project/FileHandler/bin/Debug/net7.0/FileHandler.pdb
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/FileHandler.csproj.AssemblyReference.cache
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/FileHandler.GeneratedMSBuildEditorConfig.editorconfig
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/FileHandler.AssemblyInfoInputs.cache
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/FileHandler.AssemblyInfo.cs
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/FileHandler.csproj.CoreCompileInputs.cache
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/FileHandler.dll
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/refint/FileHandler.dll
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/FileHandler.pdb
+/home/setrin/Documents/test_project/FileHandler/obj/Debug/net7.0/ref/FileHandler.dll
